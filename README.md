@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renu Rao</h1>
+<h1 align="center" style="background-color: yellow">Hi 👋, I'm Renu Rao</h1>
 <h3 align="center">Like most devs, I turn coffee into code</h3>
 <br>
 
