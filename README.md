@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color: yellow">Hi 👋, I'm Renu Rao</h1>
+<h1 align="center">Hi 👋, I'm Renu Rao</h1>
 <h3 align="center">Like most devs, I turn coffee into code</h3>
 <br>
 
@@ -22,3 +22,4 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=renurao1306&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![Views Counter](https://views-counter.vercel.app/badge?pageId=renurao1306&leftColor=2d2d2d&rightColor=ffff80&type=total&label=Viewers&style=none)
