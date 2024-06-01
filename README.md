@@ -3,7 +3,10 @@
 <br>
 
 ### 💫 About Me:
-🔭 I’m currently working on improving my skills as a MERN Stack Developer<br>🌱 I’m currently learning Flutter to build awesome mobile apps<br>⚡ Fun fact A true Gryffindor by heart<br> 📫 How to reach me **renurao.1306@gmail.com**
+🔭 I’m currently working on improving my skills as a MERN Stack Developer<br>
+🌱 I’m currently learning Flutter to build awesome mobile apps<br>
+⚡ Fun fact A true Gryffindor by heart<br> 
+📫 How to reach me **renurao.1306@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
