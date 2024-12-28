@@ -1,6 +1,7 @@
-<h1>Hi, I'm Renu</h1>
-<h3>Like most devs, I turn coffee into code</h3>
+<h1 align="center">Hi, I'm Renu 👋</h1>
+<h3 align="center">Like most devs, I turn coffee into code</h3>
 <br/>
+
 
 # 💫 About Me:
 🔭 I’m currently working on improving my skills as a MERN Stack Developer<br>🌱 I’m currently learning Flutter to build awesome mobile apps<br>⚡ Fun fact A true Gryffindor by heart<br>📫 How to reach me renurao.1306@gmail.com
@@ -22,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=renurao1306&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
