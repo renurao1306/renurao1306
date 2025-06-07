@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on improving my skills as a MERN Stack Developer<br>🌱 I’m currently learning Flutter to build awesome mobile apps<br>⚡ Fun fact A true Gryffindor by heart<br>📫 How to reach me renurao.1306@gmail.com
+🔭 I’m currently working on improving my skills as a Full Stack Developer<br>🌱 I’m currently learning Spring Boot Microservices<br>⚡ Fun fact A true Gryffindor by heart<br>📫 How to reach me renurao.1306@gmail.com
 
 
 ## 🌐 Socials:
